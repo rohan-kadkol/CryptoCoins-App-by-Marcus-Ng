@@ -1,6 +1,7 @@
 # CryptoCoins App
 
 I created this app by following the course by [Marcus Ng](https://marcus-ng.com/).
+
 [Course Link](https://marcus-ng.com/p/flutter-bloc-crypto-app-with-api)
 
 ## Skills Covered
